@@ -11,6 +11,8 @@
     font-family: 'MontBold';
     src: url(fonts/Montserrat-Bold.otf);
 }
+
+h2{color:#ffffff;}
 @font-face {
     font-family: 'MontBoldItalic';
     src: url(fonts/Montserrat-BoldItalic.otf);
